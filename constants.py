@@ -5,7 +5,8 @@ Simulation Constants
 
 class SimColor:
 """
-Tuples corresponding to RGB colors
+TEST
+Tuples corresponding to RGB 
 """
     LIGHT_GREY = (240, 240, 240)
     DARK_GREY = (30, 30, 50)
@@ -35,7 +36,7 @@ Constants for disease
 
 class Screen:
 """
-Constants for Screen
+Constants for Screen 
 """
     WIDTH = 680
     HEIGHT = 480
